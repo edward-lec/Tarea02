@@ -6,7 +6,7 @@ package com.mycompany.tarea02;
 
 /**
  *
- * @author User
+ * @author leiber 
  */
 public class Tarea02 {
 
